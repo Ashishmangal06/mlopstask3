@@ -1,6 +1,0 @@
-sl_no,gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p,status,salary
-211,M,80.6,Others,82,Others,Commerce,77.6,Comm&Mgmt,No,91,Mkt&Fin,74.49,Placed,400000
-212,M,58,Others,60,Others,Science,72,Sci&Tech,No,74,Mkt&Fin,53.62,Placed,275000
-213,M,67,Others,67,Others,Commerce,73,Comm&Mgmt,Yes,59,Mkt&Fin,69.72,Placed,295000
-214,F,74,Others,66,Others,Commerce,58,Comm&Mgmt,No,70,Mkt&HR,60.23,Placed,204000
-215,M,62,Central,58,Others,Science,53,Comm&Mgmt,No,89,Mkt&HR,60.22,Not Placed,
